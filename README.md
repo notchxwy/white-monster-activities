@@ -1,4 +1,5 @@
-# white-monster-activities
+Automate First
+
 
 Goal: To eliminate manual SSH sessions by automating state-data collection across a muli-vender lab enviroment
 
